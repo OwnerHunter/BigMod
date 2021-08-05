@@ -1,0 +1,19 @@
+{
+    "name": "slash_commands_template",
+    "version": "1.0.0",
+    "main": "app.js",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^13.0.0-dev.e980948de55e91e59c9e3293ac76bc645a058a53"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    },
+    "description": "Discord.JS SlashCommand template bot.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": ""
+}
